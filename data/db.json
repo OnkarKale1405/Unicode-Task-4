@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "username": "Onake001",
+      "email": "onkarkale0007@gmail.com",
+      "password": "Pass@123",
+      "mobile": "8456154875",
+      "id": 1
+    },
+    {
+      "email": "onkarkale0007@gmail.com",
+      "password": "Pass@123",
+      "id": 2
+    }
+  ],
+  "newUser": [],
+  "newLogin": []
+}
